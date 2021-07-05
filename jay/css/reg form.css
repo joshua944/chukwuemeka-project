@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+    color: rgb(136, 136, 189);
+    text-decoration: underline  rgb(136, 136, 189);
+    /* margin-bottom: -150px; */
+}
+
+
+#life{
+    background-color: rgb(136, 136, 189);
+    color: white;
+    font-size: 10px;
+    border: hidden;
+    margin: 1px 1px;
+}
+
+body{
+    margin: 200px 250px;
+    margin-top: -1px;
+}
+
+nav{
+    text-align: center;
+}
+
+.me{
+    border: solid black 1px;
+}
